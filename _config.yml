@@ -1,0 +1,18 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Josh Porter
+tagline:          'PHP Developer Intern'
+description:      'University of Manchester student on placement at Inviqa. PHP/Magento and a general brain dump for myself.'
+url:              http://joshporter.co.uk
+paginate:         5
+
+author:
+  name:           'Josh Porter'
+  url:            https://twitter.com/josh__porter
+
