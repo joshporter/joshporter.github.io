@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Josh Porter
 tagline:          'PHP Developer Intern'
-description:      'University of Manchester Internet Computing student on placement at Inviqa. PHP/Magento and a brain dump for myself.'
+description:      'Session Digital/Inviqa. <br/> University of Manchester. <br/> B.Sc Internet Computing. <br/> A place to brain dump my time with PHP/Magento'
 url:              http://joshporter.co.uk
 paginate:         5
 
@@ -16,3 +16,7 @@ author:
   name:           'Josh Porter'
   url:            https://twitter.com/josh__porter
 
+social:
+  twitter:        https://twitter.com/josh__porter
+  github:         https://github.com/joshporter
+  linkedin:       https://uk.linkedin.com/in/joshuawporter
